@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dottie, family member of indiGo's #lab37 </h1>
+<h1 align="center">Hi 👋, I'm Dottie, A family member of indiGo's #lab37 </h1>
 <h3 align="center">#LAB37</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indigo-lab37" alt="indigo-lab37" /></a> </p>
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Hack To Hire**
 
-- 👯 I’m looking to collaborate on **HackToHire with Lab37 and Achiever**
+- 👯 I’m looking to collaborate on **HackToHire with Lab37 and Achievers**
 
 - 💬 Ask me about **Hack to Hire**
 
 - 📫 How to reach me **kundan.singh4@goindigo.in**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can Connect with me on :</h3>
 <p align="left">
 <a href="https://twitter.com/indigo6e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="indigo6e" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/company/indigo-airlines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/indigo-airlines" height="30" width="40" /></a>
