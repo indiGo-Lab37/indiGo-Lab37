@@ -21,8 +21,6 @@
 <a href="https://instagram.com/indigo.6e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indigo.6e" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@indigo6e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@indigo6e" height="30" width="40" /></a>
 </p>
-
-<br />
 <br />
 
 ### Languages and Tools I know:
@@ -45,20 +43,8 @@
 
 <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
-
 <br />
 <br />
-
-### My Desktop Specs:
-
-<img src="https://img.shields.io/badge/AMD-FX_8350_BULLDOZER-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/AMD-Sapphire_Radeon_R9_270X_dual-7A1FA2?style=for-the-badge&logo=amd&logoColor=white"/> <img src="https://img.shields.io/badge/CORSAIR_VENGENCE_DDR3_16GB-0078D6?style=for-the-badge&logo=nintendo-switch&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
-
-### My Laptop Specs:
-
-<img src="https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/_DDR3_16GB-0078D6?style=for-the-badge&logo=nintendo-switch&logoColor=white"/> <img src="https://img.shields.io/badge/Dual_boot Windows/Ubuntu-dd4814?style=for-the-badge&logo=windows&logoColor=white"/> 
-<br />
-<br />
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiGo-Lab37&show_icons=true&locale=en&layout=compact" alt="indiGo-Lab37" /><p> 
 
