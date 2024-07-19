@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm indiGo-lab37</h1>
-<h3 align="center">An AI based</h3>
+<h1 align="center">Hi 👋, I'm Dottie, family member of indiGo's #lab37 </h1>
+<h3 align="center">#LAB37</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indigo-lab37" alt="indigo-lab37" /></a> </p>
 
