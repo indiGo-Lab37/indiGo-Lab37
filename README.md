@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/indigo6e" target="blank"><img src="https://img.shields.io/twitter/follow/indigo6e?logo=twitter&style=for-the-badge" alt="indigo6e" /></a> </p>
 
-- 🔭 I’m currently working on **Hack To Hire**
+- 🔭 I’m currently working on **Hack To Hire.**
 
-- 👯 I’m looking to collaborate on **HackToHire with Lab37 and Achievers**
+- 👯 I’m looking to collaborate on **HackToHire with Lab37 and Achievers.**
 
-- 💬 Ask me about **Hack to Hire**
+- 💬 Ask me about **Hack to Hire.**
 
 - 📫 How to reach me **kundan.singh4@goindigo.in**
 
